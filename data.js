@@ -1,0 +1,60 @@
+export const projectData = [
+	{
+		name: "Take A BREAK",
+		img: "https://play-lh.googleusercontent.com/U-Ycbi0Vj3yEOs0dnUN1P7yvKuyiZMdvNPTCzpTae8KIom90YbV36XSAKHN3zvq58qI=s180-rw",
+		description:
+			"Take A Break is a desktop app build using Electron JS and it works on 20 - 20 - 20 rule. It is available on both platforms phone and desktop.",
+		github: "https://github.com/shumakmanohar/Take-A-Break",
+		demo: "https://github.com/shumakmanohar/Take-A-Breakhttps://github.com/shumakmanohar/Take-A-Break",
+		techUsed: [
+			"HTML n CSS",
+			"Electron JS",
+			"Android Studio",
+			"Jetpack Compose",
+		],
+		latest: false,
+		id: "1",
+	},
+	{
+		name: "Producto",
+		img: "https://shumak.netlify.app/imgs/productoLogo.png",
+		description: "A todo App build using Android Native with MVVM architecture",
+		github: "",
+		demo: "https://play.google.com/store/apps/details?id=com.myproducto.producto",
+		techUsed: ["Android Studio", "Kotlin", "SQL"],
+		latest: false,
+		id: "1",
+	},
+	{
+		name: "App Promotion Web",
+		img: "./img/apppromote.png",
+		description: "Simple webpage build for app promotion",
+		github: "",
+		demo: "",
+		techUsed: ["HTML", "CSS", "JS"],
+		latest: false,
+		id: "1",
+	},
+	{
+		name: "Food App Design",
+		img: "./img/fooddesign.png",
+		description: "Simple Figma Design",
+		github: "",
+		demo: "",
+		techUsed: ["Figma"],
+		latest: false,
+		id: "1",
+	},
+
+	{
+		name: "ToDo App",
+		img: "https://shumak.netlify.app/imgs/d.jpg",
+		description:
+			"Todo App is a web app , implemented user autenticantion and data storage ",
+		github: "https://github.com/shumakmanohar/TodoApp-UserAuthentication",
+		demo: "",
+		techUsed: ["HTML n CSS", "Express", "NodeJS", "MongoDB"],
+		latest: false,
+		id: "1",
+	},
+];
