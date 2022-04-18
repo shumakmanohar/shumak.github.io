@@ -1,9 +1,26 @@
 export const projectData = [
 	{
+		name: "Hulu - Clone",
+		img: "./img/hulu.png",
+		description:
+			"This is a Hulu Clone app , build using NextJs and themoviedb Api. The site is completely responsive on all platforms, including 4K displays and mobile screens. For Styling, Tailwind css is used and Vercel is used for deploying the project. ",
+		github: "https://github.com/shumakmanohar/hulu-clone",
+		demo: "https://hulu-clone-2-mu.vercel.app/",
+		techUsed: [
+			"Next JS",
+			"Tailwind CSS",
+			"JavaScript",
+			"Vercel",
+			"themoviedb Api",
+		],
+		latest: false,
+		id: "1",
+	},
+	{
 		name: "Take A BREAK",
 		img: "https://play-lh.googleusercontent.com/U-Ycbi0Vj3yEOs0dnUN1P7yvKuyiZMdvNPTCzpTae8KIom90YbV36XSAKHN3zvq58qI=s180-rw",
 		description:
-			"Take A Break is a desktop app build using Electron JS and it works on 20 - 20 - 20 rule. It is available on both platforms phone and desktop.",
+			"Take A Break is a desktop and mobile app build using Electron JS and Kotlin it works on 20 - 20 - 20 rule. It is available on both platforms phone and desktop.",
 		github: "https://github.com/shumakmanohar/Take-A-Break",
 		demo: "https://github.com/shumakmanohar/Take-A-Breakhttps://github.com/shumakmanohar/Take-A-Break",
 		techUsed: [
