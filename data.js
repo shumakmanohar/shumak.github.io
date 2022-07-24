@@ -1,5 +1,45 @@
 export const projectData = [
 	{
+		name: "Amazon Clone",
+		img: "./img/amazon.png",
+		description:
+			"This is a Amazon Clone app , build using NextJs ,Redux , NextAuth and Stripe Api. The site is completely responsive on all platforms. NextAuth is used for Authentication. Firebase is used for the storage of media files and other related data. For Styling, Tailwind css is used and Vercel is used for deploying the project. ",
+		github: "https://github.com/shumakmanohar/amazon-clone-v1",
+		demo: "https://amazon-clone-v1-eight.vercel.app/",
+		techUsed: [
+			"Next JS",
+			"NextAuth",
+			"Stripe API",
+			"Redux",
+			"Tailwind CSS",
+			"JavaScript",
+			"Vercel",
+			,
+		],
+		latest: false,
+		id: "1",
+	},
+	{
+		name: "Open Up",
+		img: "./img/openup2.png",
+		description:
+			"A web app that lets you post your feelings or any message, which will be auto-deleted after 24hrs.✌️ Open Up can be a place where you can share your worst fear, frustration , your secret crush, or fantasies. The user remains completely discreet while posting",
+		demo: "https://openup.live/",
+		github: "",
+		techUsed: [
+			"MERN STACK",
+			"Next JS",
+			"REST API",
+			"MongoDB",
+			"NodeJs",
+			"Heroku",
+			"Vercel",
+			"MUI",
+		],
+		latest: false,
+		id: "1",
+	},
+	{
 		name: "Hulu - Clone",
 		img: "./img/hulu.png",
 		description:
